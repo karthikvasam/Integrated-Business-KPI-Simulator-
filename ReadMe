@@ -3,51 +3,33 @@ Integrated Business KPI Simulator (Power BI):
 An interactive business analytics dashboard built using **Power BI**, **SQL**, and **Python** to visualize and simulate key performance indicators (KPIs) — **Revenue**, **Cost**, **Customer Experience**, and **Risk**.  
 The project demonstrates how changes in pricing, cost, or operational factors influence revenue growth, customer retention, and risk exposure through dynamic data-driven insights.
 
----
-
 Project Overview:
 The **Integrated Business KPI Simulator** models the relationships among four major business pillars:
-- **Revenue & Growth** – Tracks income, sales, and conversion performance.  
-- **Cost & Efficiency** – Measures operational expenses and profit margins.  
-- **Customer Experience** – Monitors churn rate, retention, and satisfaction (NPS).  
-- **Risk & Compliance** – Evaluates fraud, downtime, and process stability.  
+- Revenue & Growth** – Tracks income, sales, and conversion performance.  
+- Cost & Efficiency** – Measures operational expenses and profit margins.  
+- Customer Experience** – Monitors churn rate, retention, and satisfaction (NPS).  
+- Risk & Compliance** – Evaluates fraud, downtime, and process stability.  
 
 Users can adjust parameters such as price or cost through Power BI’s *What-If* sliders to simulate various business scenarios and instantly observe the impact on overall performance metrics.
 
----
-
 Features:
-- **Interactive What-If Simulation** – Adjust KPIs dynamically to test multiple business outcomes.  
-- **KPI Correlation Analysis** – Understand how revenue, cost, and customer metrics are inter-linked.  
-- **Real-Time Insights** – View live updates to profitability, retention, and risk levels.  
-- **SQL-Based Data Modeling** – Used joins and aggregations to integrate financial, customer, and risk datasets.  
-- **Python-Generated Data** – Created and cleaned datasets using Pandas and NumPy for realistic patterns.  
-- **Professional Visualization** – Power BI dashboards designed with clean, decision-oriented layouts.
-
----
-
-Tech Stack:
-| Component | Technology |
-|------------|-------------|
-| Data Preparation | Python (Pandas, NumPy) |
-| Data Storage & Query | SQL |
-| Visualization | Power BI |
-| Version Control | Git & GitHub |
-
----
+- Interactive What-If Simulation** – Adjust KPIs dynamically to test multiple business outcomes.  
+- KPI Correlation Analysis** – Understand how revenue, cost, and customer metrics are inter-linked.  
+- Real-Time Insights** – View live updates to profitability, retention, and risk levels.  
+- SQL-Based Data Modeling** – Used joins and aggregations to integrate financial, customer, and risk datasets.  
+- Python-Generated Data** – Created and cleaned datasets using Pandas and NumPy for realistic patterns.  
+- Professional Visualization** – Power BI dashboards designed with clean, decision-oriented layouts.
 
 Workflow:
-1. **Data Simulation:** Generate sample business data using Python.  
-2. **Database Integration:** Store structured data and join tables in SQL.  
-3. **Dashboard Design:** Import into Power BI and create relationships between datasets.  
-4. **Parameter Setup:** Add *What-If* parameters for price, cost, and satisfaction.  
-5. **Visualization:** Build interactive visuals for revenue, churn, profit, and risk.  
-6. **Insight Delivery:** Analyze outcomes to derive actionable recommendations.
-
----
+1. Data Simulation: Generate sample business data using Python.  
+2. Database Integration: Store structured data and join tables in SQL.  
+3. Dashboard Design: Import into Power BI and create relationships between datasets.  
+4. Parameter Setup: Add *What-If* parameters for price, cost, and satisfaction.  
+5. Visualization: Build interactive visuals for revenue, churn, profit, and risk.  
+6. Insight Delivery: Analyze outcomes to derive actionable recommendations.
 
 key Insights:
-- Demonstrates trade-offs between **profitability**, **customer satisfaction**, and **operational risk**.  
+- Demonstrates trade-offs between profitability, customer satisfaction, and operational risk.  
 - Highlights how **data analytics enables strategic decision-making** through simulation.  
 - Shows integration of **technical (SQL/Python)** and **business intelligence (Power BI)** skills.
 
