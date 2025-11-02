@@ -1,0 +1,42 @@
+install MySQL,Python, PowerBI
+
+the python must be installed in the same folder where you create all your projects
+
+create a virtual environment on cmd with commands(.venv)
+
+install all the packages for python
+
+check if they have instlled by --version and pip list command
+
+it shows: 
+(et_xmlfile        2.0.0
+greenlet          3.2.4
+numpy             2.3.4
+openpyxl          3.1.5
+pandas            2.3.3
+pip               25.3
+PyMySQL           1.1.2
+python-dateutil   2.9.0.post0
+python-dotenv     1.2.1
+pytz              2025.2
+setuptools        80.9.0
+six               1.17.0
+SQLAlchemy        2.0.44
+typing_extensions 4.15.0
+tzdata            2025.2
+wheel             0.45.1)
+
+Never edit or delete files inside .venv manually.
+
+import the project folder into VS Code
+
+create a src folder and check if it is working by creating a testpython code file and import all librarie and print a code 
+
+if it shows activate.ps1 error where it says it cannot load scripts execute the powershell commands for temporary permissions as admininstrator(Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass, .venv\Scripts\Activate.ps1,) for permanent permission as administrator(Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned)
+
+use this command for safe operations(Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned -Force
+& ".\.venv\Scripts\Activate.ps1")
+
+
+after successful execution create four files(db_connection.py, data_loader.py, kpi_calculator.py, dashboard_main.py) in it 
+
