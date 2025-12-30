@@ -4,21 +4,21 @@ An interactive business analytics dashboard built using **Power BI**, **SQL**, a
 The project demonstrates how changes in pricing, cost, or operational factors influence revenue growth, customer retention, and risk exposure through dynamic data-driven insights.
 
 Project Overview:
-The **Integrated Business KPI Simulator** models the relationships among four major business pillars:
-- Revenue & Growth** – Tracks income, sales, and conversion performance.  
-- Cost & Efficiency** – Measures operational expenses and profit margins.  
-- Customer Experience** – Monitors churn rate, retention, and satisfaction (NPS).  
-- Risk & Compliance** – Evaluates fraud, downtime, and process stability.  
+The Integrated Business KPI Simulator** models the relationships among four major business pillars:
+1) Revenue & Growth – Tracks income, sales, and conversion performance.  
+2) Cost & Efficiency – Measures operational expenses and profit margins.  
+3) Customer Experience – Monitors churn rate, retention, and satisfaction (NPS).  
+4) Risk & Compliance – Evaluates fraud, downtime, and process stability.  
 
 Users can adjust parameters such as price or cost through Power BI’s *What-If* sliders to simulate various business scenarios and instantly observe the impact on overall performance metrics.
 
 Features:
-- Interactive What-If Simulation** – Adjust KPIs dynamically to test multiple business outcomes.  
-- KPI Correlation Analysis** – Understand how revenue, cost, and customer metrics are inter-linked.  
-- Real-Time Insights** – View live updates to profitability, retention, and risk levels.  
-- SQL-Based Data Modeling** – Used joins and aggregations to integrate financial, customer, and risk datasets.  
-- Python-Generated Data** – Created and cleaned datasets using Pandas and NumPy for realistic patterns.  
-- Professional Visualization** – Power BI dashboards designed with clean, decision-oriented layouts.
+1) Interactive What-If Simulation – Adjust KPIs dynamically to test multiple business outcomes.  
+2) KPI Correlation Analysis – Understand how revenue, cost, and customer metrics are inter-linked.  
+3) Real-Time Insights – View live updates to profitability, retention, and risk levels.  
+4) SQL-Based Data Modeling – Used joins and aggregations to integrate financial, customer, and risk datasets.  
+5) Python-Generated Data – Created and cleaned datasets using Pandas and NumPy for realistic patterns.  
+6) Professional Visualization – Power BI dashboards designed with clean, decision-oriented layouts.
 
 Workflow:
 1. Data Simulation: Generate sample business data using Python.  
@@ -28,11 +28,7 @@ Workflow:
 5. Visualization: Build interactive visuals for revenue, churn, profit, and risk.  
 6. Insight Delivery: Analyze outcomes to derive actionable recommendations.
 
-key Insights:
-- Demonstrates trade-offs between profitability, customer satisfaction, and operational risk.  
-- Highlights how **data analytics enables strategic decision-making** through simulation.  
-- Shows integration of **technical (SQL/Python)** and **business intelligence (Power BI)** skills.
-
----
-
-## 📂 Repository Structure
+Key Insights:
+1) Demonstrates trade-offs between profitability, customer satisfaction, and operational risk.  
+2) Highlights how data analytics enables strategic decision-making** through simulation.  
+3) Shows integration of technical (SQL/Python) and business intelligence (Power BI) skills.
