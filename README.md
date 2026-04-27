@@ -158,18 +158,6 @@ This tool shows those connections **before** you make expensive mistakes.
 ![Scenario](https://github.com/karthikvasam/Integrated-Business-KPI-Simulator-/blob/main/Screenshots/Dashboard%20(3).png?raw=true)
 
 ---
-## 🔄 How It Works (Simple Version)
-
-I create data with Python
-↓
-Load it into MySQL database
-↓
-Connect Power BI to database
-↓
-Add sliders for testing scenarios
-↓
-Business leaders play with it and make better decisions
----
 
 ## 🎓 What I Learned
 
@@ -205,6 +193,3 @@ Looking for: Data Analyst | Business Analyst roles
 ## ⭐ Like This Project?
 
 If this helped you or gave you ideas, star it! Questions? Open an issue or message me.
-# Test
-
-This is working.
