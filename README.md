@@ -9,7 +9,7 @@
 Every business leader faces questions like:
 - *"If we raise prices by 10%, will customers leave?"*
 - *"Can we cut costs without hurting sales?"*
-Usually, answering these takes weeks of meetings and spreadsheets. **This dashboard helps answer them..**
+Usually, answering these takes weeks of meetings and spreadsheets. **This dashboard helps answer them.**
 
 ---
 
@@ -152,10 +152,10 @@ This tool shows those connections **before** you make expensive mistakes.
 ## 📸 Screenshots
 
 ### Main Dashboard
-<img src="https://github.com/karthikvasam/Integrated-Business-KPI-Simulator-/blob/main/Screenshots/Dashboard%20(1).png?raw=true" width=100>
+![Dashboard](https://github.com/karthikvasam/Integrated-Business-KPI-Simulator-/blob/main/Screenshots/Dashboard%20(1).png?raw=true)
 
 ### Testing a Scenario
-*<img src="https://github.com/karthikvasam/Integrated-Business-KPI-Simulator-/blob/main/Screenshots/Dashboard%20(3).png?raw=true" width=100>*
+![Scenario](https://github.com/karthikvasam/Integrated-Business-KPI-Simulator-/blob/main/Screenshots/Dashboard%20(3).png?raw=true)
 
 ---
 ## 🔄 How It Works (Simple Version)
@@ -205,3 +205,6 @@ Looking for: Data Analyst | Business Analyst roles
 ## ⭐ Like This Project?
 
 If this helped you or gave you ideas, star it! Questions? Open an issue or message me.
+# Test
+
+This is working.
